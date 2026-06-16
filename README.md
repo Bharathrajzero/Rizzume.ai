@@ -33,7 +33,7 @@ An intelligent resume optimization tool that uses AI to analyze job descriptions
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/resume-ats-optimizer.git
+git clone https://github.com/yourusername/Rizzume.ai.git
 cd resume-ats-optimizer
 
 # Run setup script (Windows)
@@ -113,7 +113,7 @@ Click "Analyze" → AI compares resume vs job → Returns:
 ## 📁 Project Structure
 
 ```
-resume-ats-optimizer/
+Rizzume.ai/
 ├── apps/
 │   └── web/
 │       ├── src/
