@@ -1,4 +1,4 @@
-# 🎯 AI Resume ATS Optimizer
+# 🎯 Rizzume.ai
 
 An intelligent resume optimization tool that uses AI to analyze job descriptions and generate tailored resumes with compatibility scores.
 
