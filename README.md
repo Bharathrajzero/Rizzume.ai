@@ -293,9 +293,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 [Report Bug](https://github.com/yourusername/resume-ats-optimizer/issues)
-- 💡 [Request Feature](https://github.com/yourusername/resume-ats-optimizer/issues)
-- 📧 Contact: your@email.com
+- 🐛 [Report Bug](https://github.com/Bharathrajzero/Rizzume.ai/issues)
+- 💡 [Request Feature](https://github.com/Bharathrajzero/Rizzume.ai/issues)
+- 📧 Contact: alphagroup2025ltd@gmail.com
 
 ---
 
