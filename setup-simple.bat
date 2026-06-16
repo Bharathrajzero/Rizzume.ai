@@ -1,6 +1,6 @@
 @echo off
 echo ========================================
-echo Resume ATS Optimizer - Simple Setup
+echo Resume Rizzume.ai
 echo ========================================
 echo.
 
