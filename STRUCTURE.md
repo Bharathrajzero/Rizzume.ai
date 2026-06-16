@@ -1,7 +1,7 @@
 # 📂 Project Structure
 
 ```
-resume-ats-optimizer/
+Rizzume.ai/
 │
 ├── apps/
 │   └── web/                          # Main Next.js application
