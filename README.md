@@ -278,7 +278,7 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup Ltd.
+This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup.
 
 ---
 
