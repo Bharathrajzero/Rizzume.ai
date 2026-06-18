@@ -295,7 +295,7 @@ This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup.
 
 - 🐛 [Report Bug](https://github.com/Bharathrajzero/Rizzume.ai/issues)
 - 💡 [Request Feature](https://github.com/Bharathrajzero/Rizzume.ai/issues)
-- 📧 Contact: alphagroup2025ltd@gmail.com
+- 📧 Contact: bharathraj.alphagroup@gmail.com
 
 ---
 
