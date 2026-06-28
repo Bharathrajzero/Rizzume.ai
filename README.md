@@ -9,6 +9,20 @@ An intelligent resume optimization tool that uses AI to analyze job descriptions
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/7da86da8-5b33-43df-9819-d8c180207f0d" />
+
+---
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/e37c8e6b-0818-4c53-9696-1f7a2d566c2d" />
+
+---
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/14a40242-2466-47c1-9aa4-8b6b35e5592b" />
+
+---
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/8a854b15-eddc-4e15-b3c5-9c3e4a51259f" />
+
+---
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/47bd3051-7db8-4325-aa6b-ec7c0c821169" />
+
 
 ## ✨ Features
 
