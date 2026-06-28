@@ -225,7 +225,7 @@ export default function Home() {
           {/* Sub-Footer Divider & Copyright Group */}
           <div className="border-t border-slate-100 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="text-sm font-medium text-slate-500 text-center sm:text-left">
-              © 2025 <span className="font-semibold text-slate-800">AlphaGroup Ltd.</span> All rights reserved.
+              © 2025 <span className="font-semibold text-slate-800">AlphaGroup.</span> All rights reserved.
             </div>
             <div className="text-sm font-medium text-slate-400 text-center sm:text-right">
               Architected & Built by <span className="font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent hover:from-indigo-500 hover:to-cyan-500 transition-all cursor-pointer">Bharath Raj</span>
