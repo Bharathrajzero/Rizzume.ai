@@ -2,6 +2,8 @@
 
 An intelligent resume optimization tool that uses AI to analyze job descriptions and generate tailored resumes with compatibility scores.
 
+---
+# Screenshots
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-green)
